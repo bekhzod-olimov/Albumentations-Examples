@@ -68,6 +68,18 @@ This repository contains applications and visualizations of the [Albumentations]
 ### RandomRain
 ![RandomRain](https://user-images.githubusercontent.com/50166164/210499619-bc8b4e12-5f1d-4db2-a05a-b720c63a687d.png)
 
+### RandomBrightness
+![RandomBrightness](https://user-images.githubusercontent.com/50166164/210499670-46c0657f-0e43-4ce5-b8cd-f97f0e68f3c6.png)
+
+### RandomContrast
+![RandomContrast](https://user-images.githubusercontent.com/50166164/210499715-4a969a13-3c7e-453e-972b-f78038a69ce1.png)
+
+### RandomFog
+![RandomFog](https://user-images.githubusercontent.com/50166164/210499770-0751d87a-1b3b-42c0-bb0a-6d392787b28a.png)
+
+### RandomGamma
+![RandomGamma](https://user-images.githubusercontent.com/50166164/210499791-c2bf260b-689d-4b72-b4b0-4c66a6502827.png)
+
 
 
 
