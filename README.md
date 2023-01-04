@@ -80,6 +80,18 @@ This repository contains applications and visualizations of the [Albumentations]
 ### RandomGamma
 ![RandomGamma](https://user-images.githubusercontent.com/50166164/210499791-c2bf260b-689d-4b72-b4b0-4c66a6502827.png)
 
+### RandomShadow
+![RandomShadow](https://user-images.githubusercontent.com/50166164/210499881-a0216e7c-1ae2-443b-bbdb-0db23361cd39.png)
+
+### RandomSnow
+![RandomSnow](https://user-images.githubusercontent.com/50166164/210499908-8a751096-5c4d-49a6-bafa-a96ee0128ab7.png)
+
+### RandomSunFlare
+![RandomSunFlare](https://user-images.githubusercontent.com/50166164/210499944-2d1db9bc-c227-448b-b7de-715c173fcc74.png)
+
+
+
+
 
 
 
