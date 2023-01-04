@@ -15,10 +15,10 @@ This repository contains applications and visualizations of the [Albumentations]
 ![clahe](https://user-images.githubusercontent.com/50166164/210487347-7ca42164-9e7f-4f3f-949f-983a1d545aa1.png)
 
 ### Channel Dropout
-![channel_dropout](https://user-images.githubusercontent.com/50166164/210477408-3ca7bf55-b645-4820-90cd-a91ab9962f2e.png)
+![channel_dropout](https://user-images.githubusercontent.com/50166164/210487381-e6b60197-2a34-4a01-b6d0-44b534b62df5.png)
 
 ### Channel Shuffle
-![channel_shuffle](https://user-images.githubusercontent.com/50166164/210477459-b120fc37-5cbd-4c36-89d6-f431691d5ebc.png)
+![channel_shuffle](https://user-images.githubusercontent.com/50166164/210487398-e2207703-04b6-4091-8549-65e007855bb8.png)
 
 ### Channel Jitter
 ![channel_jitter](https://user-images.githubusercontent.com/50166164/210477494-8b13743f-19ae-4314-aa6e-b3a16352a194.png)
