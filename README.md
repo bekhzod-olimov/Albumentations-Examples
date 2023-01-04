@@ -56,6 +56,19 @@ This repository contains applications and visualizations of the [Albumentations]
 ### MultiplicativeNoise
 ![MultiplicativeNoise](https://user-images.githubusercontent.com/50166164/210499459-160861d0-e07e-48a6-aeee-f23c88944e75.png)
 
+### PixelDropout
+![PixelDropout](https://user-images.githubusercontent.com/50166164/210499501-dcb8bd0f-0cab-4255-8e72-4f9278d6b23c.png)
+
+### Posterize
+![Posterize](https://user-images.githubusercontent.com/50166164/210499542-c31b1d43-9230-4b05-aa35-9b37ae47d57b.png)
+
+### RandomBrightnessContrast
+![RandomBrightnessContrast](https://user-images.githubusercontent.com/50166164/210499589-85eb3e7e-661e-4c87-8ff9-bf30808b9887.png)
+
+### RandomRain
+![RandomRain](https://user-images.githubusercontent.com/50166164/210499619-bc8b4e12-5f1d-4db2-a05a-b720c63a687d.png)
+
+
 
 
 
