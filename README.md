@@ -3,13 +3,13 @@
 This repository contains applications and visualizations of the [Albumentations](https://albumentations.ai/docs/) library.
 
 ### Random Crop
-![random_crop](https://user-images.githubusercontent.com/50166164/210477205-f1ea0260-9f03-4471-af6a-86dcf8b3983b.png)
+![random_crop](https://user-images.githubusercontent.com/50166164/210487145-6de4c8c8-f5b8-47ad-97a1-4697f90aeb46.png)
 
 ### Advanced Blur
-![advanced_blur](https://user-images.githubusercontent.com/50166164/210477307-7ccb9157-f63f-43a5-8768-eb6cbdf3e5fb.png)
+![advanced_blur](https://user-images.githubusercontent.com/50166164/210487177-b3eff9b9-ff04-43e2-a382-86c3968c0d86.png)
 
 ### Blur
-![blur](https://user-images.githubusercontent.com/50166164/210477363-3815aae5-2644-465d-93fb-c3c7bb36f386.png)
+![blur](https://user-images.githubusercontent.com/50166164/210487200-c60d614a-772d-4f77-86c7-2857c73ddbb4.png)
 
 ### CLAHE
 ![clahe](https://user-images.githubusercontent.com/50166164/210477379-e5820419-4a29-49a8-87f9-62d966934514.png)
