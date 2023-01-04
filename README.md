@@ -12,7 +12,7 @@ This repository contains applications and visualizations of the [Albumentations]
 ![blur](https://user-images.githubusercontent.com/50166164/210487200-c60d614a-772d-4f77-86c7-2857c73ddbb4.png)
 
 ### CLAHE
-![clahe](https://user-images.githubusercontent.com/50166164/210477379-e5820419-4a29-49a8-87f9-62d966934514.png)
+
 
 ### Channel Dropout
 ![channel_dropout](https://user-images.githubusercontent.com/50166164/210477408-3ca7bf55-b645-4820-90cd-a91ab9962f2e.png)
