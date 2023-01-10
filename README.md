@@ -110,7 +110,8 @@ This repository contains applications and visualizations of the [Albumentations]
 ### Superpixels
 ![Superpixels](https://user-images.githubusercontent.com/50166164/211442277-b090b66e-0183-4ccb-84f9-7b71400a9532.png)
 
-
+### TemplateTransform
+![TemplateTransform](https://user-images.githubusercontent.com/50166164/211442307-87ed1b68-8921-4108-9eae-8f57079caea6.png)
 
 
 
