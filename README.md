@@ -116,6 +116,10 @@ This repository contains applications and visualizations of the [Albumentations]
 ### ToSepia
 ![ToSepia](https://user-images.githubusercontent.com/50166164/211442349-631dc32a-dc5c-4965-a20f-3820d071177b.png)
 
+### UnsharpMask
+![UnsharpMask](https://user-images.githubusercontent.com/50166164/211442384-e1362337-8526-476b-9ae8-8a8d2bd14f52.png)
+
+
 
 
 
