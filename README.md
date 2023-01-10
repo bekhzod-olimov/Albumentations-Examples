@@ -89,6 +89,9 @@ This repository contains applications and visualizations of the [Albumentations]
 ### RandomSunFlare
 ![RandomSunFlare](https://user-images.githubusercontent.com/50166164/210499944-2d1db9bc-c227-448b-b7de-715c173fcc74.png)
 
+### RandomToneCurve
+![RandomToneCurve](https://user-images.githubusercontent.com/50166164/211442054-1b8c5afd-7346-41f1-a287-7221710fc71c.png)
+
 
 
 
