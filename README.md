@@ -95,6 +95,8 @@ This repository contains applications and visualizations of the [Albumentations]
 ### RingingOvershoot
 ![RingingOvershoot](https://user-images.githubusercontent.com/50166164/211442106-6e4517af-5577-4ee8-9112-6d463ca3ec49.png)
 
+### RGBShift
+![RGBShift](https://user-images.githubusercontent.com/50166164/211442140-9317a125-02ed-4f71-b7d7-dd35c5e62c32.png)
 
 
 
