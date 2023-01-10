@@ -104,6 +104,9 @@ This repository contains applications and visualizations of the [Albumentations]
 ### Solarize
 ![Solarize](https://user-images.githubusercontent.com/50166164/211442201-8533c763-7296-4971-bd49-1b4b190c9580.png)
 
+### Spatter
+![Spatter](https://user-images.githubusercontent.com/50166164/211442240-3f345c52-8276-4df1-8463-0f976d6045b4.png)
+
 
 
 
