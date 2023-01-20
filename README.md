@@ -54,7 +54,7 @@ Randomly change hue, saturation and value of the input image.
 Decreases image quality by Jpeg, WebP compression of an image.
 ![image_compression](https://user-images.githubusercontent.com/50166164/210487728-5f1e28d8-66b1-4ba5-8673-2da48fa0b2ad.png)
 
-### Invert Image
+### [Invert Image](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1359)
 Invert the input image by subtracting pixel values from 255.
 ![invert_img](https://user-images.githubusercontent.com/50166164/210499297-918fd101-9ef7-4da6-ba21-53e98e8ce7ea.png)
 
