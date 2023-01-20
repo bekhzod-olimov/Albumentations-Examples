@@ -11,7 +11,8 @@ This repository contains applications and visualizations of the [Albumentations]
 ### Blur
 ![blur](https://user-images.githubusercontent.com/50166164/210487200-c60d614a-772d-4f77-86c7-2857c73ddbb4.png)
 
-### CLAHE
+### [CLAHE](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1298)
+Apply Contrast Limited Adaptive Histogram Equalization to the input image.
 ![clahe](https://user-images.githubusercontent.com/50166164/210487347-7ca42164-9e7f-4f3f-949f-983a1d545aa1.png)
 
 ### Channel Dropout
