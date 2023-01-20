@@ -31,7 +31,8 @@ Randomly rearrange channels of the input RGB image.
 ### Downscale
 ![dowscale](https://user-images.githubusercontent.com/50166164/210487556-69dfdb62-c53a-4c99-82c3-d005ed4a9183.png)
 
-### Emboss
+### [Emboss](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1958)
+Emboss the input image and overlays the result with the original image.
 ![emboss](https://user-images.githubusercontent.com/50166164/210487566-91bdd1c1-4cf0-4f0c-b77e-067a18d4c9a7.png)
 
 ### Equalize
