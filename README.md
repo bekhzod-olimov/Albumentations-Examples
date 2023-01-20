@@ -46,7 +46,7 @@ Augment RGB image using FancyPCA from Krizhevsky's paper "ImageNet Classificatio
 Apply gaussian noise to the input image.
 ![gauss_noise](https://user-images.githubusercontent.com/50166164/210487744-733615db-2ab0-4979-8627-51fac8d51345.png)
 
-### Hue Saturation Value]
+### [Hue Saturation Value](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L878)
 Randomly change hue, saturation and value of the input image.
 ![hue_saturation_value](https://user-images.githubusercontent.com/50166164/210487706-7fce6d39-73fd-42bb-aece-2389d5d266d4.png)
 
