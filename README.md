@@ -18,7 +18,8 @@ Apply Contrast Limited Adaptive Histogram Equalization to the input image.
 ### Channel Dropout
 ![channel_dropout](https://user-images.githubusercontent.com/50166164/210487381-e6b60197-2a34-4a01-b6d0-44b534b62df5.png)
 
-### Channel Shuffle
+### [Channel Shuffle](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1333)
+Randomly rearrange channels of the input RGB image.
 ![channel_shuffle](https://user-images.githubusercontent.com/50166164/210487398-e2207703-04b6-4091-8549-65e007855bb8.png)
 
 ### Channel Jitter
