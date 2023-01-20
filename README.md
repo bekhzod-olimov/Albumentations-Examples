@@ -50,7 +50,7 @@ Apply gaussian noise to the input image.
 Randomly change hue, saturation and value of the input image.
 ![hue_saturation_value](https://user-images.githubusercontent.com/50166164/210487706-7fce6d39-73fd-42bb-aece-2389d5d266d4.png)
 
-### Image Compression
+### [Image Compression](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L240)
 Decreases image quality by Jpeg, WebP compression of an image.
 ![image_compression](https://user-images.githubusercontent.com/50166164/210487728-5f1e28d8-66b1-4ba5-8673-2da48fa0b2ad.png)
 
