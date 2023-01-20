@@ -42,7 +42,8 @@ Emboss the input image and overlays the result with the original image.
 Augment RGB image using FancyPCA from Krizhevsky's paper "ImageNet Classification with Deep Convolutional Neural Networks"
 ![fancyPCA](https://user-images.githubusercontent.com/50166164/210487633-e1a1227a-9c7a-460f-8251-9a14669c93db.png)
 
-### Gauss Noise
+### [Gauss Noise](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1199)
+Apply gaussian noise to the input image.
 ![gauss_noise](https://user-images.githubusercontent.com/50166164/210487744-733615db-2ab0-4979-8627-51fac8d51345.png)
 
 ### Hue Saturation Value
