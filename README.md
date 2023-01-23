@@ -64,7 +64,7 @@ Invert the input image by subtracting pixel values from 255.
 Apply camera sensor noise.
 ![ISONoise](https://user-images.githubusercontent.com/50166164/210499430-aaf86d58-b1b7-4fa4-98cf-32f826c6da8f.png)
 
-### MultiplicativeNoise
+### [MultiplicativeNoise](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1725)
 Multiply image to random number or array of numbers.
 ![MultiplicativeNoise](https://user-images.githubusercontent.com/50166164/210499459-160861d0-e07e-48a6-aeee-f23c88944e75.png)
 
