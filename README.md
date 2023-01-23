@@ -65,6 +65,7 @@ Apply camera sensor noise.
 ![ISONoise](https://user-images.githubusercontent.com/50166164/210499430-aaf86d58-b1b7-4fa4-98cf-32f826c6da8f.png)
 
 ### MultiplicativeNoise
+Multiply image to random number or array of numbers.
 ![MultiplicativeNoise](https://user-images.githubusercontent.com/50166164/210499459-160861d0-e07e-48a6-aeee-f23c88944e75.png)
 
 ### PixelDropout
