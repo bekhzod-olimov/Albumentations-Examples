@@ -61,6 +61,7 @@ Invert the input image by subtracting pixel values from 255.
 ![invert_img](https://user-images.githubusercontent.com/50166164/210499297-918fd101-9ef7-4da6-ba21-53e98e8ce7ea.png)
 
 ### ISONoise
+Apply camera sensor noise.
 ![ISONoise](https://user-images.githubusercontent.com/50166164/210499430-aaf86d58-b1b7-4fa4-98cf-32f826c6da8f.png)
 
 ### MultiplicativeNoise
