@@ -29,6 +29,7 @@ Randomly rearrange channels of the input RGB image.
 ![defocus](https://user-images.githubusercontent.com/50166164/210487514-df4c25c8-2bc3-4c72-8280-07f20f23f1ac.png)
 
 ### Downscale
+Decreases image quality by downscaling and upscaling back.
 ![dowscale](https://user-images.githubusercontent.com/50166164/210487556-69dfdb62-c53a-4c99-82c3-d005ed4a9183.png)
 
 ### [Emboss](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1958)
