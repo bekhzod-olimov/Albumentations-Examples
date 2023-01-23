@@ -36,7 +36,7 @@ Decreases image quality by downscaling and upscaling back.
 Emboss the input image and overlays the result with the original image.
 ![emboss](https://user-images.githubusercontent.com/50166164/210487566-91bdd1c1-4cf0-4f0c-b77e-067a18d4c9a7.png)
 
-### Equalize
+### [Equalize](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1000)
 Equalize the image histogram.
 ![equalize](https://user-images.githubusercontent.com/50166164/210487591-79a01acd-37df-4f58-8ae9-acd05d0b7fb8.png)
 
