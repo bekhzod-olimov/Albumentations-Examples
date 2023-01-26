@@ -72,6 +72,7 @@ Multiply image to random number or array of numbers.
 ![PixelDropout](https://user-images.githubusercontent.com/50166164/210499501-dcb8bd0f-0cab-4255-8e72-4f9278d6b23c.png)
 
 ### Posterize
+Reduce the number of bits for each color channel.
 ![Posterize](https://user-images.githubusercontent.com/50166164/210499542-c31b1d43-9230-4b05-aa35-9b37ae47d57b.png)
 
 ### RandomBrightnessContrast
