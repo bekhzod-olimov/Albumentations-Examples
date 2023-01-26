@@ -91,7 +91,7 @@ Adds rain effects.
 ### RandomFog
 ![RandomFog](https://user-images.githubusercontent.com/50166164/210499770-0751d87a-1b3b-42c0-bb0a-6d392787b28a.png)
 
-### RandomGamma
+### [RandomGamma](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1380)
 ![RandomGamma](https://user-images.githubusercontent.com/50166164/210499791-c2bf260b-689d-4b72-b4b0-4c66a6502827.png)
 
 ### RandomShadow
