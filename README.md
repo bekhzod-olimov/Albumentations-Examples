@@ -31,6 +31,7 @@ Randomly changes the brightness, contrast, and saturation of an image. Compared 
 ![channel_jitter](https://user-images.githubusercontent.com/50166164/210487444-95c71ff8-93b6-4d98-a1a2-c0530a4cc402.png)
 
 ### Defocus
+Apply defocus transform.
 ![defocus](https://user-images.githubusercontent.com/50166164/210487514-df4c25c8-2bc3-4c72-8280-07f20f23f1ac.png)
 
 ### [Downscale](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1569)
