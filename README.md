@@ -26,7 +26,8 @@ Randomly Drop Channels in the input Image.
 Randomly rearrange channels of the input RGB image.
 ![channel_shuffle](https://user-images.githubusercontent.com/50166164/210487398-e2207703-04b6-4091-8549-65e007855bb8.png)
 
-### Channel Jitter
+### Color Jitter
+Randomly changes the brightness, contrast, and saturation of an image. Compared to ColorJitter from torchvision, this transform gives a little bit different results because Pillow (used in torchvision) and OpenCV (used in Albumentations) transform an image to HSV format by different formulas. Another difference - Pillow uses uint8 overflow, but we use value saturation.
 ![channel_jitter](https://user-images.githubusercontent.com/50166164/210487444-95c71ff8-93b6-4d98-a1a2-c0530a4cc402.png)
 
 ### Defocus
