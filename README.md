@@ -30,7 +30,7 @@ Randomly rearrange channels of the input RGB image.
 Randomly changes the brightness, contrast, and saturation of an image. Compared to ColorJitter from torchvision, this transform gives a little bit different results because Pillow (used in torchvision) and OpenCV (used in Albumentations) transform an image to HSV format by different formulas. Another difference - Pillow uses uint8 overflow, but we use value saturation.
 ![channel_jitter](https://user-images.githubusercontent.com/50166164/210487444-95c71ff8-93b6-4d98-a1a2-c0530a4cc402.png)
 
-### Defocus
+### [Defocus](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/blur/transforms.py#L410)
 Apply defocus transform.
 ![defocus](https://user-images.githubusercontent.com/50166164/210487514-df4c25c8-2bc3-4c72-8280-07f20f23f1ac.png)
 
