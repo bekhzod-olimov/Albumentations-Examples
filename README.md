@@ -5,7 +5,7 @@ This repository contains applications and visualizations of the [Albumentations]
 ### Random Crop
 ![random_crop](https://user-images.githubusercontent.com/50166164/210487145-6de4c8c8-f5b8-47ad-97a1-4697f90aeb46.png)
 
-### Advanced Blur
+### [Advanced Blur](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/blur/transforms.py#L306)
 Blur the input image using a Generalized Normal filter with a randomly selected parameters. This transform also adds multiplicative noise to generated kernel before convolution.
 ![advanced_blur](https://user-images.githubusercontent.com/50166164/210487177-b3eff9b9-ff04-43e2-a382-86c3968c0d86.png)
 
