@@ -88,7 +88,7 @@ Reduce the number of bits for each color channel.
 Adds rain effects.
 ![RandomRain](https://user-images.githubusercontent.com/50166164/210499619-bc8b4e12-5f1d-4db2-a05a-b720c63a687d.png)
 
-### RandomBrightness
+### [RandomBrightness](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1144)
 Randomly change brightness of the input image.
 ![RandomBrightness](https://user-images.githubusercontent.com/50166164/210499670-46c0657f-0e43-4ce5-b8cd-f97f0e68f3c6.png)
 
