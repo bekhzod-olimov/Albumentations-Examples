@@ -93,6 +93,7 @@ Randomly change brightness of the input image.
 ![RandomBrightness](https://user-images.githubusercontent.com/50166164/210499670-46c0657f-0e43-4ce5-b8cd-f97f0e68f3c6.png)
 
 ### RandomContrast
+Randomly change contrast of the input image.
 ![RandomContrast](https://user-images.githubusercontent.com/50166164/210499715-4a969a13-3c7e-453e-972b-f78038a69ce1.png)
 
 ### RandomFog
