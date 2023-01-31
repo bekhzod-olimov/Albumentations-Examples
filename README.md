@@ -18,7 +18,7 @@ Blur the input image using a random-sized kernel.
 Apply Contrast Limited Adaptive Histogram Equalization to the input image.
 ![clahe](https://user-images.githubusercontent.com/50166164/210487347-7ca42164-9e7f-4f3f-949f-983a1d545aa1.png)
 
-### Channel Dropout
+### [Channel Dropout](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/dropout/channel_dropout.py#L28)
 Randomly Drop Channels in the input Image.
 ![channel_dropout](https://user-images.githubusercontent.com/50166164/210487381-e6b60197-2a34-4a01-b6d0-44b534b62df5.png)
 
