@@ -10,7 +10,7 @@ Crop a random part of the input.
 Blur the input image using a Generalized Normal filter with a randomly selected parameters. This transform also adds multiplicative noise to generated kernel before convolution.
 ![advanced_blur](https://user-images.githubusercontent.com/50166164/210487177-b3eff9b9-ff04-43e2-a382-86c3968c0d86.png)
 
-### Blur
+### [Blur](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/blur/transforms.py#L36)
 Blur the input image using a random-sized kernel.
 ![blur](https://user-images.githubusercontent.com/50166164/210487200-c60d614a-772d-4f77-86c7-2857c73ddbb4.png)
 
