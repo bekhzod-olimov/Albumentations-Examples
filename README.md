@@ -106,6 +106,7 @@ Adds random gamma value to the images.
 ![RandomGamma](https://user-images.githubusercontent.com/50166164/210499791-c2bf260b-689d-4b72-b4b0-4c66a6502827.png)
 
 ### RandomShadow
+Simulates shadows for the image.
 ![RandomShadow](https://user-images.githubusercontent.com/50166164/210499881-a0216e7c-1ae2-443b-bbdb-0db23361cd39.png)
 
 ### RandomSnow
