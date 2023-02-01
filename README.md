@@ -83,6 +83,7 @@ Reduce the number of bits for each color channel.
 ![Posterize](https://user-images.githubusercontent.com/50166164/210499542-c31b1d43-9230-4b05-aa35-9b37ae47d57b.png)
 
 ### RandomBrightnessContrast
+Randomly change brightness and contrast of the input image.
 ![RandomBrightnessContrast](https://user-images.githubusercontent.com/50166164/210499589-85eb3e7e-661e-4c87-8ff9-bf30808b9887.png)
 
 ### [RandomRain](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L394)
