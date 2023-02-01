@@ -74,7 +74,7 @@ Apply camera sensor noise.
 Multiply image to random number or array of numbers.
 ![MultiplicativeNoise](https://user-images.githubusercontent.com/50166164/210499459-160861d0-e07e-48a6-aeee-f23c88944e75.png)
 
-### PixelDropout
+### [PixelDropout](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L2325)
 Set pixels to 0 with some probability.
 ![PixelDropout](https://user-images.githubusercontent.com/50166164/210499501-dcb8bd0f-0cab-4255-8e72-4f9278d6b23c.png)
 
