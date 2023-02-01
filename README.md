@@ -97,6 +97,7 @@ Randomly change contrast of the input image.
 ![RandomContrast](https://user-images.githubusercontent.com/50166164/210499715-4a969a13-3c7e-453e-972b-f78038a69ce1.png)
 
 ### RandomFog
+Simulates fog for the image.
 ![RandomFog](https://user-images.githubusercontent.com/50166164/210499770-0751d87a-1b3b-42c0-bb0a-6d392787b28a.png)
 
 ### [RandomGamma](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1380)
