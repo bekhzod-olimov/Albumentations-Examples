@@ -110,6 +110,7 @@ Simulates shadows for the image.
 ![RandomShadow](https://user-images.githubusercontent.com/50166164/210499881-a0216e7c-1ae2-443b-bbdb-0db23361cd39.png)
 
 ### RandomSnow
+Bleach out some pixel values simulating snow.
 ![RandomSnow](https://user-images.githubusercontent.com/50166164/210499908-8a751096-5c4d-49a6-bafa-a96ee0128ab7.png)
 
 ### RandomSunFlare
