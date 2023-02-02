@@ -126,7 +126,7 @@ Randomly change the relationship between bright and dark areas of the image by m
 Create ringing or overshoot artefacts by conlvolving image with 2D sinc filter.
 ![RingingOvershoot](https://user-images.githubusercontent.com/50166164/211442106-6e4517af-5577-4ee8-9112-6d463ca3ec49.png)
 
-### RGBShift
+### [RGBShift](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1055)
 Randomly shift values for each channel of the input RGB image.
 ![RGBShift](https://user-images.githubusercontent.com/50166164/211442140-9317a125-02ed-4f71-b7d7-dd35c5e62c32.png)
 
