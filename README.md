@@ -131,6 +131,7 @@ Randomly shift values for each channel of the input RGB image.
 ![RGBShift](https://user-images.githubusercontent.com/50166164/211442140-9317a125-02ed-4f71-b7d7-dd35c5e62c32.png)
 
 ### Sharpen
+Sharpen the input image and overlays the result with the original image.
 ![Sharpen](https://user-images.githubusercontent.com/50166164/211442174-76673149-cb0d-4d4f-9977-b7f34b59bee3.png)
 
 ### Solarize
