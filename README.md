@@ -118,7 +118,7 @@ Bleach out some pixel values simulating snow.
 Simulates Sun Flare for the image.
 ![RandomSunFlare](https://user-images.githubusercontent.com/50166164/210499944-2d1db9bc-c227-448b-b7de-715c173fcc74.png)
 
-### RandomToneCurve
+### [RandomToneCurve](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L837)
 Randomly change the relationship between bright and dark areas of the image by manipulating its tone curve.
 ![RandomToneCurve](https://user-images.githubusercontent.com/50166164/211442054-1b8c5afd-7346-41f1-a287-7221710fc71c.png)
 
