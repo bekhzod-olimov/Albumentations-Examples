@@ -115,6 +115,7 @@ Bleach out some pixel values simulating snow.
 ![RandomSnow](https://user-images.githubusercontent.com/50166164/210499908-8a751096-5c4d-49a6-bafa-a96ee0128ab7.png)
 
 ### RandomSunFlare
+Simulates Sun Flare for the image.
 ![RandomSunFlare](https://user-images.githubusercontent.com/50166164/210499944-2d1db9bc-c227-448b-b7de-715c173fcc74.png)
 
 ### RandomToneCurve
