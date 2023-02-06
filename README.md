@@ -143,6 +143,7 @@ Apply spatter transform. It simulates corruption which can occlude a lens in the
 ![Spatter](https://user-images.githubusercontent.com/50166164/211442240-3f345c52-8276-4df1-8463-0f976d6045b4.png)
 
 ### Superpixels
+Transform images partially/completely to their superpixel representation. This implementation uses skimage's version of the SLIC algorithm.
 ![Superpixels](https://user-images.githubusercontent.com/50166164/211442277-b090b66e-0183-4ccb-84f9-7b71400a9532.png)
 
 ### TemplateTransform
