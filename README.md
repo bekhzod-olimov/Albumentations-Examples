@@ -134,7 +134,7 @@ Randomly shift values for each channel of the input RGB image.
 Sharpen the input image and overlays the result with the original image.
 ![Sharpen](https://user-images.githubusercontent.com/50166164/211442174-76673149-cb0d-4d4f-9977-b7f34b59bee3.png)
 
-### Solarize
+### [Solarize](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L1034)
 Invert all pixel values above a threshold.
 ![Solarize](https://user-images.githubusercontent.com/50166164/211442201-8533c763-7296-4971-bd49-1b4b190c9580.png)
 
