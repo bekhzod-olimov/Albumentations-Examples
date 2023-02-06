@@ -138,7 +138,7 @@ Sharpen the input image and overlays the result with the original image.
 Invert all pixel values above a threshold.
 ![Solarize](https://user-images.githubusercontent.com/50166164/211442201-8533c763-7296-4971-bd49-1b4b190c9580.png)
 
-### Spatter
+### [Spatter](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L2552)
 Apply spatter transform. It simulates corruption which can occlude a lens in the form of rain or mud.
 ![Spatter](https://user-images.githubusercontent.com/50166164/211442240-3f345c52-8276-4df1-8463-0f976d6045b4.png)
 
