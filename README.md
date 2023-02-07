@@ -151,6 +151,7 @@ Apply blending of input image with specified templates.
 ![TemplateTransform](https://user-images.githubusercontent.com/50166164/211442307-87ed1b68-8921-4108-9eae-8f57079caea6.png)
 
 ### ToSepia
+Applies sepia filter to the input RGB image.
 ![ToSepia](https://user-images.githubusercontent.com/50166164/211442349-631dc32a-dc5c-4965-a20f-3820d071177b.png)
 
 ### UnsharpMask
