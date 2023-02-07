@@ -146,7 +146,7 @@ Apply spatter transform. It simulates corruption which can occlude a lens in the
 Transform images partially/completely to their superpixel representation. This implementation uses skimage's version of the SLIC algorithm.
 ![Superpixels](https://user-images.githubusercontent.com/50166164/211442277-b090b66e-0183-4ccb-84f9-7b71400a9532.png)
 
-### TemplateTransform
+### [TemplateTransform](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py#L2201)
 Apply blending of input image with specified templates. 
 ![TemplateTransform](https://user-images.githubusercontent.com/50166164/211442307-87ed1b68-8921-4108-9eae-8f57079caea6.png)
 
